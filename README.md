@@ -25,10 +25,9 @@ Saya suka membuat tools sederhana yang benar-benar menyelesaikan masalah nyata, 
 const kavi = {
   role: "Web Developer",
   focus: ["EdTech", "AI for learning"],
-  stack: ["HTML", "CSS", "JavaScript", "TypeScript"],
+  stack: ["HTML", "CSS", "PHP", "React", "JavaScript", "TypeScript"],
   currentlyBuilding: ["kaviverse", "School website", "Digital store website"],
   openTo: ["collaboration", "edtech projects"],
-  portfolio: "https://myportfolio-kavimrs.vercel.app/",
 };
 ```
 
